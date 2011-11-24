@@ -1,0 +1,10 @@
+{
+  "name": "connect-dirty",
+  "description": "Node-dirty session store for Connect",
+  "version": "0.0.1",
+  "author": "M Michelli <mario@edison.no>",
+  "main": "./index.js",
+  "dependencies": { "dirty": ">= 0.9.4" },
+  "devDependencies": { "connect": "*" },
+  "engines": { "node": ">= 0.1.98" }
+}
