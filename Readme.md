@@ -3,6 +3,7 @@
 
 Connect-dirty is a session store backed by [node_dirty](http://github.com/felixge/node-dirty). Requires dirty >= `0.9.4`.
 
+Connect-dirty is a copy of [connect-redis](https://github.com/visionmedia/connect-redis) but for [node_dirty](http://github.com/felixge/node-dirty).
 
 ## Installation
 
